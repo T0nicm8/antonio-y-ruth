@@ -45,7 +45,7 @@ body{
 
 #hero{
 
-    height:100vh;
+    min-height:100vh;
 
     display:flex;
 
@@ -58,6 +58,8 @@ body{
     position:relative;
 
     overflow:hidden;
+
+    padding:40px 20px;
 
 }
 
