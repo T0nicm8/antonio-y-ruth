@@ -617,6 +617,69 @@ font-size:34px;
 }
 
 }
+#hero{
+
+    min-height:100vh;
+
+    padding:30px 20px;
+
+}
+
+.hero-content{
+
+    max-width:100%;
+
+    padding:10px;
+
+}
+
+.hero-content h3{
+
+    font-size:16px;
+
+    margin-bottom:10px;
+
+}
+
+.hero-content h1{
+
+    font-size:42px;
+
+    margin-bottom:15px;
+
+}
+
+.hero-content h2{
+
+    font-size:24px;
+
+    letter-spacing:1px;
+
+    margin-bottom:20px;
+
+}
+
+.hero-content p{
+
+    font-size:16px;
+
+    line-height:1.6;
+
+}
+
+button{
+
+    margin-top:25px;
+
+    width:100%;
+
+    max-width:320px;
+
+    padding:16px;
+
+    font-size:18px;
+
+}
 /*=================================
         PORTADA NUEVA
 ==================================*/
