@@ -61,7 +61,7 @@ const fotos = [
 {
     img:"img/foto2.jpg",
     titulo:"Madrid",
-    texto:"Las mejores noches siempre acaban contigo."
+    texto:"Los mejores momentos siempre son contigo."
 },
 
 {
