@@ -156,4 +156,4 @@ setInterval(()=>{
 
     cargarFoto();
 
-},5000);
+},9000);
